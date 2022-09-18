@@ -1,1 +1,3 @@
-# knowledge-base
+# knowledge-base    
+
+[Design Patterns](./designPatterns.md)
