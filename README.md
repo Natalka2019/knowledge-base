@@ -1,3 +1,3 @@
 # knowledge-base    
 
-[Design Patterns](./designPatterns.md)
+[Design Patterns](./themes/designPatterns.md)
